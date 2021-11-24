@@ -1,0 +1,42 @@
+@font-face{
+  font-family: CourierPrime;
+  src: url(../fonts/Courier_Prime/CourierPrime-Regular.ttf);
+}
+
+@font-face{
+  font-family: CourierPrimeBold;
+  src: url(../fonts/Courier_Prime/CourierPrime-Bold.ttf);
+}
+
+body{
+  background-color: #FFFFC2;
+}
+
+h1{
+  font-family: CourierPrimeBold;
+}
+
+h2{
+  font-family: CourierPrime;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  font-family: CourierPrime;
+}
+
+#button1{
+  background-color: #9CCFE7;
+  color: white;
+}
+
+#button2{
+  background-color: #977FD7;
+  color: white;
+}
+
+#button3{
+  background-color: #F5AFCB;
+  color: white;
+}
