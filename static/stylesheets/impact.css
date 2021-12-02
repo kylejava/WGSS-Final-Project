@@ -8,6 +8,24 @@
   src: url(../fonts/Courier_Prime/CourierPrime-Bold.ttf);
 }
 
+
+
+
+
 body{
   background-color: #F5AFCB;
+}
+
+h1{
+  font-family: CourierPrimeBold;
+}
+
+h2,h3,h4{
+  font-family: CourierPrime;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  font-family: CourierPrime;
 }
