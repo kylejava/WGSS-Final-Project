@@ -14,6 +14,10 @@ def introduction():
 def history():
     return render_template('history.html')
 
+@app.route('/impact' , methods = ['GET' , 'POST'])
+def impact():
+    return render_template('impact.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True)

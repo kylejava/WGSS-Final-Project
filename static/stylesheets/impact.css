@@ -7,20 +7,7 @@
   font-family: CourierPrimeBold;
   src: url(../fonts/Courier_Prime/CourierPrime-Bold.ttf);
 }
+
 body{
-  background-color: #977FD7;
-}
-
-h1{
-  font-family: CourierPrimeBold;
-}
-
-h2{
-  font-family: CourierPrime;
-}
-
-a{
-  text-decoration: none;
-  color: inherit;
-  font-family: CourierPrime;
+  background-color: #F5AFCB;
 }
