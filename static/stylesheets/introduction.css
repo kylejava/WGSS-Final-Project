@@ -15,7 +15,7 @@ h1{
   font-family: CourierPrimeBold;
 }
 
-h2{
+h2, p{
   font-family: CourierPrime;
 }
 
@@ -28,4 +28,7 @@ a{
 
 .carousel-inner img {
   margin: auto;
+}
+img{
+  margin:auto;
 }

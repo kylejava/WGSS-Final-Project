@@ -29,3 +29,7 @@ a{
   color: inherit;
   font-family: CourierPrime;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
