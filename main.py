@@ -18,6 +18,10 @@ def history():
 def impact():
     return render_template('impact.html')
 
+@app.route('/sources' , methods = ['GET' , 'POST'])
+def sources():
+    return render_template('sources.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True)

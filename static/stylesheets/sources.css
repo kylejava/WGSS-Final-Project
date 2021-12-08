@@ -1,0 +1,20 @@
+@font-face{
+  font-family: CourierPrime;
+  src: url(../fonts/Courier_Prime/CourierPrime-Regular.ttf);
+}
+
+@font-face{
+  font-family: CourierPrimeBold;
+  src: url(../fonts/Courier_Prime/CourierPrime-Bold.ttf);
+}
+body{
+  background-color: #9CCFE7;
+}
+
+h1{
+  font-family: CourierPrimeBold;
+}
+
+h2, h3, p, a{
+  font-family: CourierPrime;
+}
